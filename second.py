@@ -10,6 +10,8 @@ def prit(n, isPrime):
 def superPrimes(n):
     isPrime = [1 for i in range(n+1)]
     prit(n, isPrime)
+    
+
 
     primes = [0 for i in range(2,n+1)]
     j = 0
