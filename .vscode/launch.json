@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/assembly/ass10",
-      "program": "c:/assembly/ass10/build/Debug/outDebug",
+      "cwd": "c:/assembly/mustafa123/ass10",
+      "program": "c:/assembly/mustafa123/ass10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
